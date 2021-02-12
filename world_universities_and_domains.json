@@ -75739,13 +75739,15 @@
   },
   {
     "web_pages": [
-      "http://www.fontys.edu/"
+      "http://www.fontys.edu/", 
+      "http://www.fontys.nl/"
     ],
     "name": "Fontys University of Applied Sciences",
     "alpha_two_code": "NL",
     "state-province": null,
     "domains": [
-      "fontys.edu"
+      "fontys.edu",
+      "fontys.nl"
     ],
     "country": "Netherlands"
   },
